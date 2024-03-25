@@ -33,6 +33,6 @@
 
 ## 个人博客
 
-- [https://mrhzq.github.io](https://mrhzq.github.io/about)
-- [https://huangzq94.gitee.io](https://huangzq94.gitee.io/about)
+- [https://mrhzq.github.io](https://mrhzq.github.io/)
+- [https://huangzq94.gitee.io](https://huangzq94.gitee.io/)
 

@@ -1,6 +1,6 @@
 ## 基本信息
 
-姓名：黄智强，年龄：29，工作经验：前端 - 7 年
+姓名：黄智强，年龄：30，工作经验：前端 - 7 年
 
 目前情况：北京-作业帮
 
@@ -32,5 +32,4 @@
 ## 个人博客
 
 - [https://mrhzq.github.io](https://mrhzq.github.io/)
-- [https://huangzq94.gitee.io](https://huangzq94.gitee.io/)
-
+- [掘金](https://juejin.cn/user/395479915969656/posts)

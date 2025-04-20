@@ -34,4 +34,5 @@
 ## 个人博客
 
 - [https://mrhzq.github.io](https://mrhzq.github.io/)
+- [黄智强-前端-8年](https://www.yuque.com/u53094/vd58kv/sh4igcohkakoxysr?singleDoc)
 - [掘金](https://juejin.cn/user/395479915969656/posts)
